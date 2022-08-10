@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>My CV</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="CV.css" type="text/css">
+  <title>Document</title>
+</head>
+<body>
+  <h1>ПІБ: Поліщук Анастасія Володимирівна</h1>
+    <h2>Тел.: +380956069524</h2>
+    <h3>Skype: 380956069524</h3>
+    <h4>Місце проживання: м. Харків</h4>
+    <h5>Вік: 29 років</h5>
+    <div class="wrap">
+      <img src="C:\Users\Йода\Desktop\Настя QA\AV.jpg" alt="img" class="photo">
+    </div>
+  <p id="position">Посада: QA Testing Engineer</p>
+  <p>Освіта: Український державний університет залізнодорожнього транспорту, спеціальність "Автоматика та автоматизація на транспорті"</p>
+  <p>Навички:</p>
+  <ul>
+  <li class="skillsElement">Цілеспрямована</li>
+  <li class="skillsElement">Відповідальна</li>
+  <li class="skillsElement">Пунктуальна</li>
+  </ul>
+  <div class="contentBlock">
+    <main>Перелік пройдених курсів:</main>
+    <aside>
+      <ol>
+        <li>Just English IT Scool (Pre-intermediate)</li>
+        <li>QA Testing from G5 University від G5 Games</li>
+        <li>QA Testing from A-level</li>
+      </aside>
+    </div>
+  <table>
+  <tbody>
+    <caption class="tableName">Досвід роботи</caption>
+  <tr>
+  <th>Місце роботи</th>
+  <th>Термін роботи</th>
+  <th>Посада</th>
+  </tr>
+  <tr>
+  <td>Дитячий табір "Олімпія"</td>
+  <td>10.06.2016 - 29.06.2016 (1 зміна)</td>
+  <td>Керівник дитячого гуртка</td>
+  </tr>
+  <tr>
+  <td>Ipayless</td>
+  <td>30.01.2016 - 03.09.2016</td>
+  <td>Менеджер відділу продажів</td>
+  </tr>
+  <tr>
+  <td>Фрілансер (проектувальник технічних схем)</td>
+  <td>05.06.2016 - 30.11.2021</td>
+  <td>Проектувальник схем</td>
+  </tr>
+    </tbody>
+  </table>
+  <p><a href="https://www.linkedin.com/in/anastasiia-polishchuck-882611232">LinkedIn</a></p>
+  </body>
+</html>
